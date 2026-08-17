@@ -14,17 +14,18 @@
 
 **Program:** Infosys Springboard Internship --- Batch 1
 
-The supplied Milestone 4 notebook does not contain the mentor's
-name/designation or the final team-member GitHub handles. Those details
-are intentionally left as placeholders rather than being invented.
+The final team members and mentor are listed below. GitHub handles and
+individual contributions can be filled in by the team before submission.
 
   Name                      Role / What They Built   GitHub handle
   ------------------------- ------------------------ ----------------
-  **\[Add team member\]**   \[Add contribution\]     \[Add handle\]
-  **\[Add team member\]**   \[Add contribution\]     \[Add handle\]
-  **\[Add team member\]**   \[Add contribution\]     \[Add handle\]
+  **Alakshya Nilesh Salvi**  [Add contribution]       [Add GitHub link]
+  **Simran Kapoor**          [Add contribution]       [Add GitHub link]
+  **Nadendla Padhvika**      [Add contribution]       [Add GitHub link]
+  **S Uday Gowda**           [Add contribution]       [Add GitHub link]
+  **Manuru Deepika**         [Add contribution]       [Add GitHub link]
 
-**Mentor:** \[Add mentor full name and designation\]
+**Mentor:** MohammedSipli
 
 ## 2. Project Overview
 
